@@ -1,0 +1,21 @@
+﻿La génération a démarré 10/02/2020 18:02:02.
+Projet "C:\Documents and Settings\Administrateur\Mes documents\Visual Studio 2010\Projects\projet\projet\projet.vcxproj" sur le nœud 2 (build cible(s)).
+InitializeBuildStatus:
+  Création de "Debug\projet.unsuccessfulbuild", car "AlwaysCreate" a été spécifié.
+ClCompile:
+  Toutes les sorties sont à jour.
+  Toutes les sorties sont à jour.
+ManifestResourceCompile:
+  Toutes les sorties sont à jour.
+Link:
+  Toutes les sorties sont à jour.
+Manifest:
+  Toutes les sorties sont à jour.
+FinalizeBuildStatus:
+  Suppression du fichier "Debug\projet.unsuccessfulbuild".
+  Mise à jour de l'horodatage "Debug\projet.lastbuildstate".
+Génération du projet "C:\Documents and Settings\Administrateur\Mes documents\Visual Studio 2010\Projects\projet\projet\projet.vcxproj" terminée (build cible(s)).
+
+La génération a réussi.
+
+Temps écoulé 00:00:00.60
